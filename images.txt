@@ -1,3 +1,1 @@
-ptrxyz/chemotion:ketchersvc-1.9.3
-ptrxyz/chemotion:converter-1.9.3
-ptrxyz/chemotion:spectra-1.9.3
+eclipse-temurin:17
