@@ -1,1 +1,3 @@
-eclipse-temurin:17
+minio/minio：latest
+jenkins/jenkins：jdk17
+postgres：13.14
