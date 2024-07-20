@@ -1,1 +1,2 @@
-apache/rocketmq:5.2.0
+maven:3.9.8-amazoncorretto-8
+node:14.10.1-alpine3.11
