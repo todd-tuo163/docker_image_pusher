@@ -1,1 +1,1 @@
-node:20.1.0-alpine3.17
+openjdk:25-oraclelinux9
