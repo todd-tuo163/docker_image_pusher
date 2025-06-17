@@ -1,1 +1,1 @@
-maven:3.9.9-amazoncorretto-17-alpine
+node:18.17.1-alpine3.17
